@@ -34,11 +34,11 @@ Work out what answer equals when you replace the final line of code above with e
 these options:
 ```
 // 1
-let answer1: Int = (a * 100) + b
-// 2
-let answer2: Int = (a * 100) + (b * 100)
-// 3
-let answer3: Int = (a * 100) + (b / 10)
+        let answer1: Int = (a * 100) + b
+        // 2
+        let answer2: Int = (a * 100) + (b * 100)
+        // 3
+        let answer3: Int = (a * 100) + (b / 10)
 ```
 4. Add parentheses to the following calculation. The parentheses should show the order in which the operations are performed and should not alter the result of the calculation.
 ```
