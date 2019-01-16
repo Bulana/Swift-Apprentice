@@ -1,7 +1,7 @@
 Motivation
 ===
 
-This repository supports a series of posts that will cover the exercises that come with the Raywenderlich Swift Apprentice, Third Edition, Beginning programming with Swift 4 book. The books comes with mini-exercises and challenge tasks which we will cover one by one through the this series. 
+This repository supports a series of posts that will cover the exercises that come with the Raywenderlich Swift Apprentice, Third Edition, Beginning programming with Swift 4 book. The books comes with mini-exercises and challenge questions which we will cover one by one throughout the this series. 
 
 
 Posts
