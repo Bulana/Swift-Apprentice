@@ -8,8 +8,7 @@ Posts
 ===
 Section I: Swift Basics 
 
-    Chapter 1: Expressions, Variables &
-    Constants 
+    Chapter 1: Expressions, Variables & Constants 
     Chapter 2: Types & Operations 
     Chapter 3: Basic Control Flow
     Chapter 4: Advanced Control Flow
